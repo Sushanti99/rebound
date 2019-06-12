@@ -17,7 +17,7 @@ import time
 from urwid.widget import (BOX, FLOW, FIXED)
 import random
 
-SO_URL = "https://stackoverflow.com"
+SO_URL = "https://github.com"
 
 # ASCII color codes
 GREEN = '\033[92m'
